@@ -1,0 +1,21 @@
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+Debug/
+Release/
+x64/
+x86/
+
+# Save data generated at runtime
+highscore.txt
+progress.txt
+player.txt
