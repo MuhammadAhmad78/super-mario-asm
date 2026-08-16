@@ -94,7 +94,7 @@ You'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/super-mario-asm.git
+   git clone https://github.com/MuhammadAhmad78/super-mario-asm.git
    cd super-mario-asm
    ```
 2. Open Visual Studio and create a new **Empty Project** (or open an existing MASM-configured solution).
